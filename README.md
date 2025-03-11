@@ -1,8 +1,11 @@
 # Умная консультация
 ## Участники
 Афанасьев Денис
+
 Карпов Арсений
+
 Степанова Татьяна
+
 
 ## Материалы
 ### [Презентация](https://docs.google.com/presentation/d/1jyepnogX1V9U3t21Mw1kvWYlQoRUdQbl/edit#slide=id.p1)
